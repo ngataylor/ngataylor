@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ngataylor
 - 👀 I’m interested in Population Health, Medicine, Food Policy and Economics
-- 🌱 I’m currently learning R, Python, Linux, Git, GIS
-- 💞️ I’m looking to collaborate on Data Collection Projects in ^above interests^
+- 🌱 I’m currently learning R, Python, Linux, Git, GIS, HTML, CSS, and Javascript
+- 💞️ I’m looking to collaborate on Data Collection and Visualization Projects in ^above interests^
 - 📫 How to reach me nathan.taylor@dal.ca, ngat87@mun.ca
 
 <!---
